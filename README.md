@@ -1,3 +1,7 @@
+# 前七次作业
+
+[前七次作业](https://github.com/ShenLu-jd/Games101Work)
+
 # win10配置games101作业8的VS环境
 
 ## 配置VS2019环境
